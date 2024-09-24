@@ -1,3 +1,6 @@
 [submodule "git_intro"]
 	path = git_intro
 	url = git@github.com:rock4ts/git_intro.git
+[submodule "admin_panel"]
+	path = admin_panel
+	url = git@github.com:rock4ts/new_admin_panel_sprint_1.git
